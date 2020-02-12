@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\Tas_Kagit_Makas\Tas_Kagit_Makas\bin\Debug\Tas_Kagit_Makas.exe.config
+C:\Users\LENOVO\source\repos\Tas_Kagit_Makas\Tas_Kagit_Makas\bin\Debug\Tas_Kagit_Makas.exe
+C:\Users\LENOVO\source\repos\Tas_Kagit_Makas\Tas_Kagit_Makas\bin\Debug\Tas_Kagit_Makas.pdb
+C:\Users\LENOVO\source\repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.Form1.resources
+C:\Users\LENOVO\source\repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.exe
+C:\Users\LENOVO\source\repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.pdb
+C:\Users\LENOVO\source\repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.Form2.resources
+C:\Users\LENOVO\source\repos\Tas_Kagit_Makas\Tas_Kagit_Makas\obj\Debug\Tas_Kagit_Makas.Form3.resources
